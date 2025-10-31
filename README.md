@@ -1,2 +1,2 @@
 # node9
-Single-page video mixer
+Single-page midi-controlled video mixer for the 2025 Hackaday Supercon
